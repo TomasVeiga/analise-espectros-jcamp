@@ -150,7 +150,7 @@ Departamento de Química — FFCLRP / USP
 Universidade de São Paulo
 Ribeirão Preto – SP
 
-Orientação: [Nome do orientador (se quiser colocar)]
+Orientação: Aline Thais Bruni
 Atividades desenvolvidas incluíram estudo de espectroscopia, formatação JCAMP-DX, processamento matemático e desenvolvimento de software científico.
 
 👨‍💻 Autor
